@@ -1,0 +1,11 @@
+Project Report – Digital Portfolio Setup
+
+For this task, I created and updated my profiles on GitHub, LinkedIn, and Kaggle. These platforms are essential for building a strong professional digital presence.
+
+GitHub is mainly used for showcasing coding projects, collaboration, and version control. I created a profile README including my name, branch (Integrated M.Tech AI), and my learning goal, which is to improve my skills in data science and artificial intelligence through real-world projects.
+
+LinkedIn is a professional networking platform where I added my education details, including my current degree and expected graduation year. It helps in connecting with professionals, recruiters, and staying updated with industry trends.
+
+Kaggle is a platform for data science practice, competitions, and datasets. I plan to use it to enhance my problem-solving skills and gain practical experience in machine learning.
+
+Over the next four years, I aim to regularly update my GitHub with projects, stay active on LinkedIn f
