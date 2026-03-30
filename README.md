@@ -1,4 +1,4 @@
-# NGMC_PROJRCT
+# NGMC_PROJECT
 Hi, I'm Rishabh Verma 👋
 
 About Me
