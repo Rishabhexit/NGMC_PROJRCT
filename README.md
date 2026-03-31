@@ -1,19 +1,18 @@
 # DIGITAL LITERACY PROJECT
-Hi, I'm Rishabh Verma 👋
+Digital Literacy Project
+Name: RISHABH VERMA
+Reg No: 25MIP10069 Branch: Integrated Mtech computational and data science
 
-About Me
-- Name: Rishabh Verma  
-- Branch: Integrated M.Tech (Computational & Data Science / AI)  
-- Year: 1st Year  
+Tasks Completed:
+Task 1: Infographic
+Task 2: Digital Portfolio
+Task 3: Platforms Exploration
+Task 4: Email Etiquette
+Task 5: Cybercrime Awareness
 
-What I Aim to Learn
-I hope to learn and build strong skills in Artificial Intelligence, Data Science, and real-world problem solving using technology.
 
-Interests
-- AI & Machine Learning  
-- Data Analysis  
-- Problem Solving  
-- Building Projects  
+Google Form Link:  
 
-Connect with Me
-- GitHub: https://github.com/your-username
+https://docs.google.com/forms/d/e/1FAIpQLSeerm9PtGsTo4GS4XrXH2Q1QgdUrXsmS5A62l9Nyl2jPlC_Sw/viewform?usp=publish-editor
+
+
